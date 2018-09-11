@@ -1,5 +1,15 @@
 # 3. 目前有多少会员？会员费是每年多少钱？
 
+**目前有多少会员？**
+
+2016年-2017月注册license数在2600到2850之间
+
+来源：[2018年5月关于澳大利亚made驱动销售的报告.mp4](2018年5月关于澳大利亚made驱动销售的报告.mp4)
+<img style="display: block;
+    margin-left: 0;
+    margin-right: auto;
+    width: 50%;" src="logonumber.png">
+
 **它要多少钱？**
 
 网址：[https://www.australianmade.com.au/for-business/how-much-does-it-cost/](https://www.australianmade.com.au/for-business/how-much-does-it-cost/)
