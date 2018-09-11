@@ -6,16 +6,6 @@
 
 来源：[2018年5月关于澳大利亚made驱动销售的报告.mp4](2018年5月关于澳大利亚made驱动销售的报告.mp4)
 
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-  <source type="mp4" src="2018年5月关于澳大利亚made驱动销售的报告.mp4"></source>
-  <p>2018年5月关于澳大利亚made驱动销售的报告</p>
-</video>
-
-<img style="display: block;
-    margin-left: 0;
-    margin-right: auto;
-    width: 50%;" src="logonumber.png">
-
 **它要多少钱？**
 
 网址：[https://www.australianmade.com.au/for-business/how-much-does-it-cost/](https://www.australianmade.com.au/for-business/how-much-does-it-cost/)
