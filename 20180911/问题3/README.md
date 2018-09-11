@@ -6,8 +6,8 @@
 
 来源：[2018年5月关于澳大利亚made驱动销售的报告.mp4](2018年5月关于澳大利亚made驱动销售的报告.mp4)
 
-<video controls="controls">
-  <source type="video/mp4" src="2018年5月关于澳大利亚made驱动销售的报告.mp4"></source>
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+  <source type="mp4" src="2018年5月关于澳大利亚made驱动销售的报告.mp4"></source>
   <p>2018年5月关于澳大利亚made驱动销售的报告</p>
 </video>
 
