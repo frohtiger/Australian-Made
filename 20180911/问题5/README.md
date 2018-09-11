@@ -3,7 +3,7 @@
 
 **Australian Made / Grown标志30岁,总理马尔科姆·特恩布尔担任演讲嘉宾**
 
-网址：https://www.retailworldmagazine.com.au/australian-madegrown-logo-turns-30/
+网址：[https://www.retailworldmagazine.com.au/australian-madegrown-logo-turns-30/](https://www.retailworldmagazine.com.au/australian-madegrown-logo-turns-30/)
 
 内容：
 三十年来，澳大利亚制造，澳大利亚种植的标识帮助企业促进和消费者轻松识别真正的澳大利亚采购产品和生产。
@@ -27,9 +27,16 @@ AMCL首席执行官伊恩·哈里森（Ian Harrison）表示，该标识对商�
     margin-right: auto;
     width: 50%;" src="https://www.retailworldmagazine.com.au/wp-content/uploads/2016/12/prime-minister-malcolm-turnbull-was-presented-with-some-australian-made-limited-edition-coopers-vintage-ale-by-australian-chamber-vice-president-jeremy-johnson-300x200.jpg">
 
+**3.3 澳大利亚政府更改了食品标签法**
+
+网址：[https://en.wikipedia.org/wiki/Australian_Made_logo](https://en.wikipedia.org/wiki/Australian_Made_logo)
+
+1986年Australian Made的创建者是澳大利亚商业和贸易协会。
+
+自2016年7月1日起，澳大利亚政府更改了食品标签法，增加了一个条形图，显示澳大利亚制造的任何产品的澳大利亚成分百分比。澳大利亚的任何企业于2016年7月1日至2018年6月30日期间要求遵守新规定。
 
 
-**3.2 Australian made 声明**
+**3.4 Australian made 声明**
 
 Australian made商标申请应遵守澳大利亚消费者法和原产国声明
 
@@ -42,7 +49,7 @@ Australian made商标申请应遵守澳大利亚消费者法和原产国声明
 为帮助确保您正确提出这些声明，请[下载澳大利亚竞争和消费者委员会（ACCC）原产国声明和澳大利亚消费者法律指南](
 https://www.accc.gov.au/publications/country-of-origin-claims-and-the-australian-consumer-law)。
 
-**3.3 原产国食品标签**
+**3.5 原产国食品标签**
 
 来源：澳大利亚工业部
 
@@ -50,7 +57,7 @@ https://www.accc.gov.au/publications/country-of-origin-claims-and-the-australian
 
 内容：澳大利亚食品标签必须能够轻松传达食品种植，生产，制造或包装的地方。这有助于消费者对他们购买的食品做出明智的决定。
 
-**3.4 如何在我的产品上使用“澳大利亚制造”徽标？**
+**3.6 如何在我的产品上使用“澳大利亚制造”徽标？**
 
 来源：澳大利亚贸业部
 
@@ -63,5 +70,5 @@ AMAG徽标是由联邦政府于1986年委托制作的.AMAG徽标不是为了盈�
 要使用该徽标，您必须向AMCL申请获得产品许可。欲了解更多信息，请访问www.australianmade.com.au或致电1800 350 520。
 
 
-**3.5 结论**
+**3.7 结论**
 Australian Made 标志政府色彩浓厚，由于导向增加澳大利亚本地人就业受到民众拥护。
