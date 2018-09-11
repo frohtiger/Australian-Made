@@ -1,7 +1,5 @@
 # 澳大利亚制造项目
 
----
-
 <img style="display: block;
     margin-left: 0;
     margin-right: auto;
