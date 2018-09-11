@@ -5,6 +5,12 @@
 2016年-2017月注册license数在2600到2850之间
 
 来源：[2018年5月关于澳大利亚made驱动销售的报告.mp4](2018年5月关于澳大利亚made驱动销售的报告.mp4)
+
+<video controls="controls">
+  <source type="video/mp4" src="2018年5月关于澳大利亚made驱动销售的报告.mp4"></source>
+  <p>2018年5月关于澳大利亚made驱动销售的报告</p>
+</video>
+
 <img style="display: block;
     margin-left: 0;
     margin-right: auto;
