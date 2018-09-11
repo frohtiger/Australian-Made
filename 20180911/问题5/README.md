@@ -22,6 +22,12 @@ AMCL首席执行官伊恩·哈里森（Ian Harrison）表示，该标识对商�
 
 在澳大利亚工商会晚宴的标志庆祝活动中，特恩布尔先生获赠了一套限量版澳大利亚Made Coopers Vintage Ale。
 澳大利亚总统副总统杰里米·约翰逊（Jeremy Johnson）向首相马尔科姆·特恩布尔（Malcolm Turnbull）赠送了一些澳大利亚限量版合作伙伴
+<img style="display: block;
+    margin-left: 0;
+    margin-right: auto;
+    width: 50%;" src="https://www.retailworldmagazine.com.au/wp-content/uploads/2016/12/prime-minister-malcolm-turnbull-was-presented-with-some-australian-made-limited-edition-coopers-vintage-ale-by-australian-chamber-vice-president-jeremy-johnson-300x200.jpg">
+
+
 
 **3.2 Australian made 声明**
 
