@@ -22,6 +22,10 @@
 
 [https://www.australianmade.com.au/products/](https://www.australianmade.com.au/products/)
 
+例如输入关键字牛奶"milk"会查询到647个澳大利亚制造标志产品：
+
+[https://www.australianmade.com.au/search/?type=products&value=milk](https://www.australianmade.com.au/search/?type=products&value=milk)
+
 商品涉及以下种类（来源于以上官方网页商品查询列表分类选项）：
 
 - 动物，宠物，宠物护理
