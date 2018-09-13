@@ -2,7 +2,7 @@
 
 **袋鼠绿标是哪一年由澳洲制造有限公司开始接管和推广工作的？**
 
-1986年Australian Made Campaign Limited（澳大利亚制造运动有限公司）建立Australian Made 商标。Australian Made Campaign Limited是一家非政府组织，它由澳大利亚工商会创建，未收到政府资金，资金来源于许可（lisence）的销售收入。董事会由11名政府成员选举而成。
+1986年Australian Made Campaign Limited（澳大利亚制造运动有限公司）建立Australian Made 商标。Australian Made Campaign Limited是一家非政府组织，它由澳大利亚工商会创建，未收到政府资金，资金来源于许可（license）的销售收入。董事会由11名政府成员选举而成。
 
 ![alt text][logo0]
 
