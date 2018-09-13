@@ -13,8 +13,12 @@
 
 **会员企业都涉及哪些行业？**
 
-零售业，服务业，组织，协会
+零售业，服务业，组织，协会，政府
 
 ![alt text][logo2]
 
 [logo2]: parter行业.png "Logo Title Text 2"
+
+![alt text][logo3]
+
+[logo3]: parter本地政府.png "Logo Title Text 2"
