@@ -26,7 +26,7 @@
 
 [https://www.australianmade.com.au/search/?type=products&value=milk](https://www.australianmade.com.au/search/?type=products&value=milk)
 
-商品涉及以下种类（来源于以上官方网页商品查询列表分类选项）：
+商品涉及以下40个种类（来源于以上官方网页商品查询列表分类选项）：
 
 - 动物，宠物，宠物护理
 - 芳香疗法，精油和蜡烛
