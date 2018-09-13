@@ -31,7 +31,7 @@
 
 ![alt text][logo1]
 
-[logo1]: 1.png "Logo Title Text 2"
+[logo1]: 免费版和付费版的区别.png "Logo Title Text 2"
 
 ## 联系电话
 
