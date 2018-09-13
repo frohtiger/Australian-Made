@@ -26,7 +26,12 @@
 
 [https://www.australianmade.com.au/search/?type=products&value=milk](https://www.australianmade.com.au/search/?type=products&value=milk)
 
-提示：你可以简单把https://www.australianmade.com.au/search/?type=products&value=milk替换成https://www.australianmade.com.au/search/?type=products&value=任何你想要的商品
+
+```
+
+提示：你可以简单输入地址https://www.australianmade.com.au/search/?type=products&value=任何你想要的商品
+
+```
 
 商品涉及以下40个种类（来源于以上官方网页商品查询列表分类选项）：
 
