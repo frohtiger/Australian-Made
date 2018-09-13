@@ -1,9 +1,9 @@
 # 微信机器人“小U”管家如何设置关键词回复
 
-```
-测试结果不工作，建议[http://www.xiazaizhijia.com/zt/92363.html](http://www.xiazaizhijia.com/zt/92363.html)
 
-```
+测试结果不工作，建议
+[http://www.xiazaizhijia.com/zt/92363.html](http://www.xiazaizhijia.com/zt/92363.html)
+
 
 ## 分步阅读
 
