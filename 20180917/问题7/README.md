@@ -18,6 +18,21 @@ FoodDrinkEurope成立于1982年，是欧盟的食品工业联合会。它由26�
 
 [https://www.fooddrinkeurope.eu/](https://www.fooddrinkeurope.eu/)
 
+成员列表：
+
+政府组织
+
+1、[https://www.fooddrinkeurope.eu/about-us/members/#tab1](https://www.fooddrinkeurope.eu/about-us/members/#tab1)
+
+协会
+
+2、[https://www.fooddrinkeurope.eu/about-us/members/#tab2](https://www.fooddrinkeurope.eu/about-us/members/#tab2)
+
+公司
+
+3、[https://www.fooddrinkeurope.eu/about-us/members/#tab3](https://www.fooddrinkeurope.eu/about-us/members/#tab3)
+
+
 ### 1.1.1 牛奶组织
 
 **Canadian Dairy Commission**
