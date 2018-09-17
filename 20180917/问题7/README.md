@@ -4,7 +4,7 @@
 
 ## 1.1 相关组织
 
-**商业组织目录**
+**商业组织目录(重要)**
 
 [https://en.wikipedia.org/wiki/Category:Business_organizations_by_industry](https://en.wikipedia.org/wiki/Category:Business_organizations_by_industry)
 
@@ -46,7 +46,7 @@
 
 
 
-**FoodDrinkEurope**
+**FoodDrinkEurope（重要）**
 
 FoodDrinkEurope成立于1982年，是欧盟的食品工业联合会。它由26个国家食品相关联合会组成，其中包括3个观察员，25个欧盟部门协会和19个主要食品和饮料公司，所有这些都归入联络委员会。
 
