@@ -74,27 +74,27 @@ DIAA是Global Dairy Platform的成员
 
 欧洲乳业协会（EDA）是欧盟牛奶加工业（合作社和私营乳业）的代言人。其成员是欧盟成员国的乳制品加工国家贸易协会。 EDA的总部位于布鲁塞尔的舒曼区。根据比利时法律，EDA的法律地位是国际无国籍协会，但却是lucratif（AISBL）
 
+[http://eda.euromilk.org/home.html](http://eda.euromilk.org/home.html)
 
+**European Milk Board**
 
+欧洲牛奶委员会（EMB）是代表15个欧洲国家奶农的20个协会的伞式组织。成立于2006年，EMB的主要目标是农场价格，涵盖乳制品行业的生产成本
 
-European Milk Board
+[http://www.europeanmilkboard.org/home.html?no_cache=1](http://www.europeanmilkboard.org/home.html?no_cache=1)
 
-Fédération des producteurs de lait du Québec
+**Fédération des producteurs de lait du Québec**
 
-International Dairy-Deli-Bakery Association
+2014年，魁北克省生产技术联合会（FPLQ）成为魁北克省Les Producteurs de lait（PLQ）。所有生产者于1983年在FPLQ内联合起来，FPLQ是由14个辛迪加组成的联合体，其中包括两个联合体：流体奶生产者（1970年）和工业奶生产者（1966年）。
 
-Israel Dairy Board
+这个民主组织的方向由其成员的大会决定，由14个区域委员会主席组成的董事会管理。 PLQ隶属于农业产业联盟（UPA），致力于捍卫和促进其成员的一般利益。
 
-Landhi Dairy Colony
+[http://lait.org/en/](http://lait.org/en/)
 
-Milk Marketing Board
+**National Dairy Producers Union (of Russia)**
 
-National Dairy Development Board
+全国乳制品生产者联合会（SOYUZMOLOKO）是一家非营利性组织，由俄罗斯的牛奶生产商于2008年3月创建，旨在确保牛奶生产的成本效益条件，及时向国际电联成员提供有关乳制品行业情况的信息，促进俄罗斯牛奶质量的提高和牛奶生产的效率，以及代表和保护工会成员在州和市政当局，公共和国际组织中的利益。
 
-National Dairy Producers Union (of Russia)
- 
-New Zealand Dairy Board
-
+[http://www.souzmoloko.ru/](http://www.souzmoloko.ru/)
 
 **WSET**
 
