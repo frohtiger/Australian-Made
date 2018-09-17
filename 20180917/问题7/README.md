@@ -6,6 +6,8 @@
 
 **商业组织目录(重要)**
 
+这里是世界各种商业组织的总目录，层级较深，例如奶业组织只是农业组织中的一个，具体某个奶业组织只是奶业组织中的一员。
+
 [https://en.wikipedia.org/wiki/Category:Business_organizations_by_industry](https://en.wikipedia.org/wiki/Category:Business_organizations_by_industry)
 
 农业组织列表：
