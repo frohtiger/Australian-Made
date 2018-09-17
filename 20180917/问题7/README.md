@@ -4,14 +4,6 @@
 
 ## 1.1 相关组织
 
-**dairynz**
-
-全称：代表New Zealand's dairy farmer（新西兰的奶农）
-
-提供的研究和服务，到教育，政策和乳品行业战略，新西兰是世界第八大奶业大国，到2010年将成为110亿新西兰元的产业。
-
-[https://www.dairynz.co.nz/](https://www.dairynz.co.nz/)
-
 **FoodDrinkEurope**
 
 FoodDrinkEurope成立于1982年，是欧盟的食品工业联合会。它由26个国家食品相关联合会组成，其中包括3个观察员，25个欧盟部门协会和19个主要食品和饮料公司，所有这些都归入联络委员会。
@@ -32,6 +24,21 @@ FoodDrinkEurope成立于1982年，是欧盟的食品工业联合会。它由26�
 
 3、[https://www.fooddrinkeurope.eu/about-us/members/#tab3](https://www.fooddrinkeurope.eu/about-us/members/#tab3)
 
+**WSET**
+
+全称：Wine & Spirit Education Trust
+
+Wine＆Spirit Education Trust，通常被称为WSET，是一个全球性组织，负责安排葡萄酒和烈酒领域的课程和考试。 WSET成立于1969年，总部设在伦敦，一般被认为是世界领先的葡萄酒教育提供商之一。2016年，为响应大中华区对葡萄酒和精神教育的高需求，它在香港开设了第一个国际办事处WSET亚太地区。
+
+[https://www.wsetglobal.com/](https://www.wsetglobal.com/)
+
+**dairynz**
+
+全称：代表New Zealand's dairy farmer（新西兰的奶农）
+
+提供的研究和服务，到教育，政策和乳品行业战略，新西兰是世界第八大奶业大国，到2010年将成为110亿新西兰元的产业。
+
+[https://www.dairynz.co.nz/](https://www.dairynz.co.nz/)
 
 ### 1.1.1 牛奶组织
 
@@ -96,13 +103,7 @@ DIAA是Global Dairy Platform的成员
 
 [http://www.souzmoloko.ru/](http://www.souzmoloko.ru/)
 
-**WSET**
 
-全称：Wine & Spirit Education Trust
-
-Wine＆Spirit Education Trust，通常被称为WSET，是一个全球性组织，负责安排葡萄酒和烈酒领域的课程和考试。 WSET成立于1969年，总部设在伦敦，一般被认为是世界领先的葡萄酒教育提供商之一。2016年，为响应大中华区对葡萄酒和精神教育的高需求，它在香港开设了第一个国际办事处WSET亚太地区。
-
-[https://www.wsetglobal.com/](https://www.wsetglobal.com/)
 
 
 
