@@ -12,6 +12,12 @@
 
 [https://www.dairynz.co.nz/](https://www.dairynz.co.nz/)
 
+**FoodDrinkEurope**
+
+FoodDrinkEurope成立于1982年，是欧盟的食品工业联合会。它由26个国家食品相关联合会组成，其中包括3个观察员，25个欧盟部门协会和19个主要食品和饮料公司，所有这些都归入联络委员会。
+
+[https://www.fooddrinkeurope.eu/](https://www.fooddrinkeurope.eu/)
+
 ### 1.1.1 牛奶组织
 
 **Canadian Dairy Commission**
@@ -39,11 +45,22 @@
 [https://www.milk.org/corporate/main.aspx](https://www.milk.org/corporate/main.aspx)
 
 
-Dairy Industry Association of Australia
+**Dairy Industry Association of Australia**
 
-Dairy Project
+澳大利亚乳业协会（DIAA）是一家针对乳制品制造商和相关行业的非营利性行业协会。
 
-European Dairy Association
+在澳大利亚乳业协会和澳大利亚乳业技术协会合并后，DIAA于1986年3月24日成立。
+
+DIAA是Global Dairy Platform的成员
+
+[https://diaa.asn.au/](https://diaa.asn.au/)
+
+**European Dairy Association**
+
+欧洲乳业协会（EDA）是欧盟牛奶加工业（合作社和私营乳业）的代言人。其成员是欧盟成员国的乳制品加工国家贸易协会。 EDA的总部位于布鲁塞尔的舒曼区。根据比利时法律，EDA的法律地位是国际无国籍协会，但却是lucratif（AISBL）
+
+
+
 
 European Milk Board
 
