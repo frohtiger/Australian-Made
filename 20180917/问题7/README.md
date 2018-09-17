@@ -4,6 +4,48 @@
 
 ## 1.1 相关组织
 
+**商业组织目录**
+
+[https://en.wikipedia.org/wiki/Category:Business_organizations_by_industry](https://en.wikipedia.org/wiki/Category:Business_organizations_by_industry)
+
+农业组织列表：
+
+[https://en.wikipedia.org/wiki/Category:Agricultural_organizations](https://en.wikipedia.org/wiki/Category:Agricultural_organizations)
+
+酒业组织列表：
+
+[https://en.wikipedia.org/wiki/Category:Wine_industry_organisations](https://en.wikipedia.org/wiki/Category:Wine_industry_organisations)
+
+时装组织列表：
+
+[https://en.wikipedia.org/wiki/Category:Fashion_organizations](https://en.wikipedia.org/wiki/Category:Fashion_organizations)
+
+渔业组织列表：
+
+[https://en.wikipedia.org/wiki/Category:Fisheries_organizations](https://en.wikipedia.org/wiki/Category:Fisheries_organizations)
+
+珠宝组织列表：
+
+[https://en.wikipedia.org/wiki/Category:Jewellery_organizations](https://en.wikipedia.org/wiki/Category:Jewellery_organizations)
+
+纺织品组织列表：
+
+[https://en.wikipedia.org/wiki/Category:Textile_organizations](https://en.wikipedia.org/wiki/Category:Textile_organizations)
+
+矿业组织列表：
+
+[https://en.wikipedia.org/wiki/Category:Mining_organisations](https://en.wikipedia.org/wiki/Category:Mining_organisations)
+
+邮政组织列表：
+
+[https://en.wikipedia.org/wiki/Category:Postal_organisations](https://en.wikipedia.org/wiki/Category:Postal_organisations)
+
+出版组织列表：
+
+[https://en.wikipedia.org/wiki/Category:Publishing_organizations](https://en.wikipedia.org/wiki/Category:Publishing_organizations)
+
+
+
 **FoodDrinkEurope**
 
 FoodDrinkEurope成立于1982年，是欧盟的食品工业联合会。它由26个国家食品相关联合会组成，其中包括3个观察员，25个欧盟部门协会和19个主要食品和饮料公司，所有这些都归入联络委员会。
