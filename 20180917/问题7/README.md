@@ -6,9 +6,20 @@
 
 **dairynz**
 
-[https://www.dairynz.co.nz/](https://www.dairynz.co.nz/)
+全称：代表New Zealand's dairy farmer（新西兰的奶农）
 
 提供的研究和服务，到教育，政策和乳品行业战略，新西兰是世界第八大奶业大国，到2010年将成为110亿新西兰元的产业。
+
+[https://www.dairynz.co.nz/](https://www.dairynz.co.nz/)
+
+**WSET**
+
+全称：Wine & Spirit Education Trust
+
+Wine＆Spirit Education Trust，通常被称为WSET，是一个全球性组织，负责安排葡萄酒和烈酒领域的课程和考试。 WSET成立于1969年，总部设在伦敦，一般被认为是世界领先的葡萄酒教育提供商之一。2016年，为响应大中华区对葡萄酒和精神教育的高需求，它在香港开设了第一个国际办事处WSET亚太地区。
+
+[https://www.wsetglobal.com/](https://www.wsetglobal.com/)
+
 
 
 ## 1.2 有机认证
