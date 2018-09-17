@@ -12,6 +12,58 @@
 
 [https://www.dairynz.co.nz/](https://www.dairynz.co.nz/)
 
+### 1.1.1 牛奶组织
+
+**Canadian Dairy Commission**
+
+加拿大乳业委员会（法语：Commission canadienne du lait）是一家位于渥太华的加拿大政府皇家公司，在加拿大乳业的公共政策中扮演管理者，推动者和利益相关者的角色。疾病预防控制中心的任务是协调省和联邦政府共同管辖范围内的乳制品政策。在20世纪70年代早期，当乳制品行业成为加拿大第一个在国家供应管理系统（NSMS）下运营的行业时，CDC被指定为协调者和管理者协调乳制品政策并为加拿大乳制品管理提供框架业
+
+[http://www.cdc-ccl.gc.ca/CDC/index-eng.php](http://www.cdc-ccl.gc.ca/CDC/index-eng.php)
+
+**Dairy Australia**
+
+澳大利亚乳业局是澳大利亚乳业的国家机构，也是研发公司（RDC）。它主要由乳品服务税提供资金，这是农民根据牛奶生产缴纳的税款。它还是一个资助机构，联邦农业部通过该机构为澳大利亚的农村研究和发展提供资金。澳大利亚乳业局还从州政府，大学，研究机构和其他乳品支持组织吸引项目层面的资金。它以前被称为乳品研究与开发公司。
+
+[https://www.dairyaustralia.com.au/](https://www.dairyaustralia.com.au/)
+
+**Dairy Farmers of Canada**
+
+加拿大奶农（DFC）是一个倡导组织，成立于1934年，当时许多相关团体合并成一个代表奶农利益的单一实体。
+
+[https://www.dairyfarmers.ca/](https://www.dairyfarmers.ca/)
+
+**Dairy Farmers of Ontario**
+
+安大略省的Dairy Farmers（DFO）是代表加拿大安大略省4,000多名奶农的营销组织和监管机构。 DFO以前被称为安大略省牛奶营销委员会（OMMB），该委员会是根据1965年安大略牛奶法案成立的。 1995年8月1日，安大略省牛奶营销委员会和安大略省奶油生产商营销委员会合并成为安大略省的奶农。
+
+[https://www.milk.org/corporate/main.aspx](https://www.milk.org/corporate/main.aspx)
+
+
+Dairy Industry Association of Australia
+
+Dairy Project
+
+European Dairy Association
+
+European Milk Board
+
+Fédération des producteurs de lait du Québec
+
+International Dairy-Deli-Bakery Association
+
+Israel Dairy Board
+
+Landhi Dairy Colony
+
+Milk Marketing Board
+
+National Dairy Development Board
+
+National Dairy Producers Union (of Russia)
+ 
+New Zealand Dairy Board
+
+
 **WSET**
 
 全称：Wine & Spirit Education Trust
