@@ -2,7 +2,7 @@
 
 [商业组织调研.xls](商业组织调研.xls)
 
-**世界品牌数据库**（例如可以查询australian made）
+**世界品牌数据库**（用于查询商标的logo，如可以查询australian made）
 
 [http://www.wipo.int/branddb/en/](http://www.wipo.int/branddb/en/)
 
