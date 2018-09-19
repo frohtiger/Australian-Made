@@ -115,3 +115,24 @@ ICO的总部位于伦敦的格雷旅馆路222号，现任执行董事是巴西�
 印度尼西亚特色咖啡协会（SCAI）是一个贸易协会，代表印度尼西亚咖啡行业的利益相关者（农民，加工商，烘焙商，咖啡师，商人，出口商，咖啡馆，咖啡设备，零售商以及阿拉比卡咖啡的政府和私人机构）印度尼西亚）。该组织成立于2007年，截至2017年12月，已有近600名活跃会员。 “卓越多样性”是SCAI的座右铭，因为印度尼西亚可能拥有世界上种类最多的咖啡，并且代表其成员来自不同背景，但在如何发展印度尼西亚咖啡产业方面拥有相同的理想主义。
 
 [http://www.scai.or.id/coffee/landing/](http://www.scai.or.id/coffee/landing/)
+
+**Brazil Specialty Coffee Association 巴西特色咖啡协会**
+
+简介：
+
+巴西特色咖啡协会为您的杯子提供巴西最好的咖啡。 该协会由一群高品质的咖啡种植者创立，旨在为市场带来最好的特色产品。
+
+[http://brazilcoffeenation.com.br/index/home](http://brazilcoffeenation.com.br/index/home)
+
+**意大利大型咖啡公司列表**
+
+Caffè del Doge
+
+Guglielmo coffee
+
+Illy
+
+Lavazza
+
+Massimo Zanetti Beverage Group
+[http://bsca.com.br/index/home](http://bsca.com.br/index/home)
