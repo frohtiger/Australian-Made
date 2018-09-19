@@ -2,7 +2,7 @@
 
 [世界咖啡组织对所有咖啡出口国咖啡产量的统计报告.pdf](调研材料/世界咖啡组织对所有咖啡出口国咖啡产量的统计报告.pdf)
 
-**utz**
+**UTZ农产品认证**
 
 简介：
 
@@ -11,7 +11,7 @@ UTZ认证是一个可持续农业的计划和标签。UTZ认证标签在超过11
 [www.utzcertified.org](http://www.utzcertified.org)
 
 
-**utz**
+**RAS 新南威尔士州皇家农业协会**
 
 简介：
 
@@ -48,11 +48,21 @@ RAS的会员资格赋予了许多宝贵的特权，包括在ANZ体育场的许�
 
 [2018年优秀食品目录](调研材料/2018finefoodcatalogueweb.pdf)
 
-**acat**
+**ACTA 澳大利亚咖啡贸易协会有限公司**
+
+简介：
+
+ACTA 代表澳大利亚咖啡行业，通过协助和改进标准，促进咖啡形象，并提供网络和进一步教育的平台。
+
+ACTA与媒体和监管机构就行业的各个方面进行联络。
+
+成就：ACTA的参与导致成功地将GST排除在咖啡之外; 有助于减少进口咖啡的关税。
+
+我们为皇家农业协会的咖啡奖提供经验丰富的评委（独立）。
 
 [www.acta.org.au](http://www.acta.org.au)
 
-**international coffee expo**
+**International Coffee Expo 国际咖啡展会**
 
 简介:
 
@@ -62,7 +72,7 @@ RAS的会员资格赋予了许多宝贵的特权，包括在ANZ体育场的许�
 
 [internationalcoffeeexpo.com](http://internationalcoffeeexpo.com/whos-there/)
 
-**ASCA**
+**ASCA 澳大利亚特色咖啡协会**
 
 简介：
 
