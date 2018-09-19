@@ -122,7 +122,7 @@ ICO的总部位于伦敦的格雷旅馆路222号，现任执行董事是巴西�
 
 巴西特色咖啡协会为您的杯子提供巴西最好的咖啡。 该协会由一群高品质的咖啡种植者创立，旨在为市场带来最好的特色产品。
 
-[http://brazilcoffeenation.com.br/index/home](http://brazilcoffeenation.com.br/index/home)
+[http://bsca.com.br/index/home](http://bsca.com.br/index/home)
 
 **意大利大型咖啡公司列表**
 
@@ -130,9 +130,16 @@ Caffè del Doge
 
 Guglielmo coffee
 
+[http://www.guglielmocaffe.it/](http://www.guglielmocaffe.it/)
+
 Illy
+
+[https://www.illy.com/en-us/shop/](https://www.illy.com/en-us/shop/)
 
 Lavazza
 
+[https://www.lavazza.it/it.html](https://www.lavazza.it/it.html)
+
 Massimo Zanetti Beverage Group
-[http://bsca.com.br/index/home](http://bsca.com.br/index/home)
+
+[http://www.mzb-group.com/](http://www.mzb-group.com/)
