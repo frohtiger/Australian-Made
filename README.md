@@ -1,4 +1,4 @@
-# 澳大利亚制造项目
+<center><font size="6">澳大利亚制造项目</font></center>
 
 ## 每日产出索引
 
