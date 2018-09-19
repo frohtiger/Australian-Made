@@ -78,3 +78,18 @@
 ACCC的原产国索赔指南和“贸易惯例法”可从所有ACCC办事处或其网站上免费获取
 
 www.accc.gov.au 
+
+## 每日产出索引
+
+|**Chapter**| **Content**                                                             | **day** |
+|:---------:|:-----------------------------------------------------------------------:|--------:|
+| 20180910  | [产出1](20180910/问题6/) [产出2](20180910/问题7/)| 1-2     |
+| 2         | ROS Architecture and Concepts                                           | 3       |
+| 3         | ROSpy                                                                   | 4-9     |
+| 4         | Visualization and Debugging Tools                                       | 10-12   |
+| 5         | 3D Modeling and Simulation                                              | 13-14   |
+| 6         | SLAM                                                                    | 15-26   |
+| 7         | The Navigation Stack                                                    | 27-38   |
+| 8         | Manipulation with MoveIt!                                               | 39-44   |
+| 9         | Deep Learning in Robotics                                               | 45-50   |
+| 10        | Robotics R&D Project                                                    | 51-60   |
