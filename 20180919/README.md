@@ -4,6 +4,10 @@
 
 **utz**
 
+简介：
+
+UTZ认证是一个可持续农业的计划和标签。UTZ认证标签在超过116个国家的10,000多种不同产品包中有所体现。 截至2014年，UTZ认证是世界上最大的咖啡和可可可持续农业计划。UTZ认证计划涵盖良好的农业实践，农场管理和环境。UTZ总部在荷兰首都Amsterdam。
+
 [www.utzcertified.org](http://www.utzcertified.org)
 
 
@@ -50,7 +54,11 @@ RAS的会员资格赋予了许多宝贵的特权，包括在ANZ体育场的许�
 
 **international coffee expo**
 
-简介
+简介:
+
+国际咖啡展会。从烘焙商到浓缩咖啡机，乳制品和乳制品替代品到包装，从家具到金融，MICE2019拥有一切。
+
+查看我们下面的2018参展商！ 明年的参展商将很快发布 - 观看这个空间。 
 
 [internationalcoffeeexpo.com](http://internationalcoffeeexpo.com/whos-there/)
 
