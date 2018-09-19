@@ -1,5 +1,11 @@
 # 咖啡组织调研
 
+[2018816中美贸易战试验全球供应链星巴克和阿里巴巴推出咖啡交付](image/1.html)
+
+[Andrea Illy复杂的咖啡全球经济学](image/2.html)
+
+[通过Blockchain Global Coffee Trading酿造新的可能性](image/3.html)
+
 [世界咖啡组织对所有咖啡出口国咖啡产量的统计报告.pdf](调研材料/世界咖啡组织对所有咖啡出口国咖啡产量的统计报告.pdf)
 
 **UTZ农产品认证**
