@@ -1,8 +1,8 @@
-# 1. 澳洲袋鼠组织调研
+# 澳洲袋鼠组织调研
 描述：在欧洲、日本、美国的类似澳洲袋鼠绿标的组织有哪些（尽量收集）？举例：就像新西兰乳业协会（DairyNZ），或者袋鼠绿标的组织机构、及WSET这样的洋酒界最权威的组织（雪茄烟产地国应该也有这样的组织）。只要全称和简介就可以。
 
 
-## 1.1 相关组织
+## 1. 相关组织
 
 **商业组织目录(重要)**
 
@@ -84,7 +84,7 @@ Wine＆Spirit Education Trust，通常被称为WSET，是一个全球性组织�
 
 [https://www.dairynz.co.nz/](https://www.dairynz.co.nz/)
 
-### 1.1.1 牛奶组织
+### 1.1 牛奶组织
 
 **Canadian Dairy Commission**
 
@@ -148,7 +148,7 @@ DIAA是Global Dairy Platform的成员
 [http://www.souzmoloko.ru/](http://www.souzmoloko.ru/)
 
 
-### 1.1.2 有机认证
+### 1.2 有机认证
 
 [https://en.wikipedia.org/wiki/Organic_certification](https://en.wikipedia.org/wiki/Organic_certification)
 

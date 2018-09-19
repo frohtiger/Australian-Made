@@ -1,6 +1,6 @@
-# 2. 2016年至今澳洲媒体对这个机构的报道有哪些?
+# 2016年至今澳洲媒体对这个机构的报道有哪些?
 
-**2.1 随着新食品标签制度的推出，澳大利亚制造运动得到加强有机认证**
+**1. 随着新食品标签制度的推出，澳大利亚制造运动得到加强有机认证**
 
 来源： [https://www.smh.com.au/business/small-business/australian-made-campaign-strengthened-with-the-launch-of-a-new-food-labelling-regime-20160505-gon9sn.html](https://www.smh.com.au/business/small-business/australian-made-campaign-strengthened-with-the-launch-of-a-new-food-labelling-regime-20160505-gon9sn.html)
 
@@ -19,7 +19,7 @@
 这对于澳大利亚食品生产商来说尤其是个好消息，已经在当地买家中引起了广泛关注。去年发表的罗伊摩根研究报告发现，90％的澳大利亚人更有可能购买标有“澳大利亚制造”的食品。
 
 
-**2.2 随着新食品标签制度的推出，澳大利亚制造运动得到加强有机认证72% 的购物者寻找澳大利亚制作的标志**
+**2. 随着新食品标签制度的推出，澳大利亚制造运动得到加强有机认证72% 的购物者寻找澳大利亚制作的标志**
 
 来源： 
 [http://www.bandt.com.au/marketing/study-72-shoppers-look-australian-made-logo](http://www.bandt.com.au/marketing/study-72-shoppers-look-australian-made-logo
@@ -55,7 +55,7 @@
 
 "品牌正受到当今消费者的密切关注, 他们需要意识到他们对公众的暴露程度。无处藏身, 最好的一个品牌握住它的手, 接近的情况下, 在危机时刻。公司现在也在寻求在消费者批评面前迅速而明显地做出反应。这样, 在一个品牌周围的负面嗡嗡声可以解决, 并在这样做, 情况可以变成和沟通的东西积极。从根本上说, 对品牌来说, 诚实、人性化、积极, 都是建立 "友谊" 和信任消费者的重要因素。
 
-**2.2 澳大利亚制造 - 现在强制要求改变食品标签要求**
+**3. 澳大利亚制造 - 现在强制要求改变食品标签要求**
 
 来源： 
 [http://www.mondaq.com/australia/x/717302/food+drugs+law/Protecting+Made+in+Australia+changes+to+food+label+requirements+now+mandatory](http://www.mondaq.com/australia/x/717302/food+drugs+law/Protecting+Made+in+Australia+changes+to+food+label+requirements+now+mandatory)
