@@ -8,7 +8,7 @@
 
 UTZ认证是一个可持续农业的计划和标签。UTZ认证标签在超过116个国家的10,000多种不同产品包中有所体现。 截至2014年，UTZ认证是世界上最大的咖啡和可可可持续农业计划。UTZ认证计划涵盖良好的农业实践，农场管理和环境。UTZ总部在荷兰首都Amsterdam。
 
-[www.utzcertified.org](http://www.utzcertified.org)
+[http://www.utzcertified.org](http://www.utzcertified.org)
 
 
 **RAS 新南威尔士州皇家农业协会**
@@ -43,7 +43,7 @@ RAS的会员资格赋予了许多宝贵的特权，包括在ANZ体育场的许�
 青年掌握着未来的关键，RAS致力于发展他们的技能。 在其青年计划的框架内，RAS庆祝农村青年的成就，并为农村社区的儿童和青年男女提供经济援助，鼓励他们实现自己的想法和抱负，并增加他们的教育机会。 
 
 
-[www.rasnsw.com.au](http://www.rasnsw.com.au)
+[http://www.rasnsw.com.au](http://www.rasnsw.com.au)
 
 
 [2018年优秀食品目录](调研材料/2018finefoodcatalogueweb.pdf)
@@ -60,7 +60,7 @@ ACTA与媒体和监管机构就行业的各个方面进行联络。
 
 我们为皇家农业协会的咖啡奖提供经验丰富的评委（独立）。
 
-[www.acta.org.au](http://www.acta.org.au)
+[whttp://ww.acta.org.au](http://www.acta.org.au)
 
 **International Coffee Expo 国际咖啡展会**
 
@@ -70,7 +70,7 @@ ACTA与媒体和监管机构就行业的各个方面进行联络。
 
 查看我们下面的2018参展商！ 明年的参展商将很快发布 - 观看这个空间。 
 
-[internationalcoffeeexpo.com](http://internationalcoffeeexpo.com/whos-there/)
+[http://internationalcoffeeexpo.com](http://internationalcoffeeexpo.com/whos-there/)
 
 **ASCA 澳大利亚特色咖啡协会**
 
@@ -82,4 +82,20 @@ ASCA由一群热情的咖啡专业人士于2001年创立，在全国各地举办
 
 如果您是咖啡专业人士，咖啡师，咖啡馆老板，咖啡烘焙师，甚至只是热情的咖啡爱好者，加入ASCA可以让您了解澳大利亚行业的领先优势。 
 
-[australianspecialtycoffee.com.au](https://australianspecialtycoffee.com.au/)
+[http://australianspecialtycoffee.com.au](https://australianspecialtycoffee.com.au/)
+
+**International Coffee Organization 国际咖啡组织**
+
+简介：
+
+国际咖啡组织（ICO）于1963年在联合国（UN）的支持下在伦敦成立。它负责管理国际咖啡协定（ICA），这是发展合作的重要工具。
+
+这是1962年在纽约联合国签署的为期五年的国际咖啡协议的结果，并于1968年，1976年，1983年，1994年和2007年在伦敦ICO重新谈判。
+
+国际咖啡理事会是本组织的最高权力机构，由每个成员国政府的代表组成。它在3月和9月举行会议，讨论咖啡事宜，批准战略文件并考虑咨询机构和委员会的建议。
+
+ICO的总部位于伦敦的格雷旅馆路222号，现任执行董事是巴西人JoséSette。
+
+在2018年6月美国退出国际咖啡协议后，ICO成员国政府占世界咖啡产量的98％，占世界消费量的67％。
+
+[http://www.ico.org/](http://www.ico.org/)
