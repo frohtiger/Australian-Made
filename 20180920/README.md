@@ -27,10 +27,13 @@
 袋鼠目前正在澳大利亚进行商业贸易和出口的合法采伐。该行业包括许多物种，包括：
 
 ```
-    红袋鼠（Macropus rufus）
-    东部灰袋鼠（M. giganteus）
-    西部灰袋鼠（M.fuliginosus）
-    常见的wallaroo（M.robustus）
+红袋鼠（Macropus rufus）
+
+东部灰袋鼠（M. giganteus）
+
+西部灰袋鼠（M.fuliginosus）
+
+常见的wallaroo（M.robustus）
 
 ```
 国家公园不会收获用于合法贸易的袋鼠，而是由州政府部门制定的配额决定。积极的袋鼠管理在袋鼠肉，皮革和其他产品的贸易中获得了商业价值。
