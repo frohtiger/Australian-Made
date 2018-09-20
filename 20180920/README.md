@@ -10,7 +10,7 @@
 
 [野生动物贸易调研.pdf]（调研材料/野生动物贸易调研.pdf）
 
-**Association of Zoos & Aquariums**
+**Association of Zoos & Aquariums 动物园和水族馆协会**
 
 简介：
 
@@ -18,27 +18,57 @@
 
 [https://www.aza.org/](https://www.aza.org/)
 
-**American Pet Products Association**
+**American Pet Products Association 美国宠物用品协会**
+
+简介：
+
+美国宠物用品协会（APPA）是一家成立于1958年的非营利性行业协会，总部位于康涅狄格州斯坦福德。 APPA代表了1000多家宠物产品制造商，宠物产品进口商以及非宠物牲畜产品供应商。
+
+APPMA通过公共政策，公共事务和动物意识来支持其成员的利益。 2008年，它从名称中删除了制造商这个词。
+
+APPA每年组织全球宠物博览会。 2012年世博会有896家参展商参展。
 
 [https://www.americanpetproducts.org/](https://www.americanpetproducts.org/)
 
-**Global Pet Expo**
+**Global Pet Expo 全球宠物博览会**
+
+简介：
+
+全球宠物博览会是宠物行业最大的年度贸易展。该节目由美国宠物用品协会和宠物产业分销商协会提出。2013年展会共有964家参展商，2,686个展位和3,000多个新产品发布会;来自世界各地的5,327名宠物用品买家参加。 2015年，全球宠物博览会于3月4日至6日在佛罗里达州奥兰多市举行。全球宠物博览会向独立零售商，分销商，大众市场买家和其他合格专业人士开放。这个节目不向公众开放。
 
 [https://globalpetexpo.org/index.html](https://globalpetexpo.org/index.html)
 
 **National Wildlife Federation**
 
+简介：
+
+国家野生动物联合会（NWF）是美国最大的私营非营利性保护教育和宣传组织，拥有600多万会员和支持者，以及51个州和领地附属组织（包括波多黎各和维尔京群岛）。
+
 [https://www.nwf.org/](https://www.nwf.org/)
 
-**Pet Industry Joint Advisory Council of Canada**
+**Pet Industry Joint Advisory Council of Canada 加拿大宠物产业联合咨询委员会**
+
+简介：
+
+我们的工作是为宠物企业提供指导和资源，帮助推动加拿大动物的健康。作为一个非盈利组织，我们相信合作伙伴是积极的宠物体验和成功的宠物企业的关键。
 
 [https://pijaccanada.com/](https://pijaccanada.com/)
 
-**Sea Turtle Conservancy**
+**Sea Turtle Conservancy 海龟保护组织**
+
+简介：
+
+Sea Turtle Conservancy（STC），前身为Caribbean Conservation Corporation，是一家美国非营利性会员组织，总部设在佛罗里达州盖恩斯维尔。 STC成立于1959年，由Joshua B. Powers先生在早期的非正式组织“绿海兄弟会”中成立，以响应着名生态学家Archie Carr博士获奖的书“迎风之路”。首先提醒全世界海龟的困境。卡尔博士从1959年起担任STC的科学主任，直到1987年去世。自成立以来，STC的研究和保护措施有助于拯救加勒比海绿海龟立即灭绝，并提高全球海龟的认识和保护，拥有50年的国内和国际海龟经验保护，研究和教育事业。该组织开始在哥斯达黎加开展工作，但已扩大其在中美洲和整个加勒比地区的研究和保护工作。
 
 [https://conserveturtles.org/](https://conserveturtles.org/)
 
 **World Association of Zoos & Aquariums**
+
+简介：
+
+世界动物园和水族馆协会（WAZA）是世界动物园和水族馆社区的“伞形”组织。其使命是为动物保护和福利，生物多样性保护，环境教育和全球可持续发展方面的动物园，水族馆和合作组织提供领导和支持。
+
+该组织位于瑞士格兰德。
 
 [http://www.waza.org/en/site/home](http://www.waza.org/en/site/home)
 
