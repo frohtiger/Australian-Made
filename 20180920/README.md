@@ -1,5 +1,7 @@
 # 宠物组织调研
 
+[行业协会和贸易展览清单](https://www.marketing-mentor.com/pages/trade-list)
+
 [在线视频：xxx](image/1.html)
 
 [在线视频：xxx](image/2.html)
@@ -9,6 +11,10 @@
 [野生动物贸易调研.pdf]（调研材料/野生动物贸易调研.pdf）
 
 **Association of Zoos & Aquariums**
+
+简介：
+
+动物园和水族馆协会（AZA），以前是美国动物园和水族馆协会，最初是美国动物园和水族馆协会），是一个成立于1924年的非营利组织，致力于推动该地区北美动物园和公共水族馆的发展。保护，教育，科学和娱乐。 AZA总部位于美国马里兰州的Silver Spring。
 
 [https://www.aza.org/](https://www.aza.org/)
 
