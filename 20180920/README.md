@@ -8,7 +8,7 @@
 
 数据，营销，宠物护理服务，渠道和创业驱动是宠物护理创新奖提出的宠物护理创业对话的亮点之一。观看6家创新的芝加哥创业公司，分享他们在宠物护理领域所做的工作以及他们的需求，同时成功的宠物护理创始人，投资者和营销人员解决他们和他们这样的其他企业家如何能够成功地从他们的热情中获益宠物在70亿美元的宠物护理行业赚取利润并扩大规模。初创公司包括Brilliant Pad，Cast 21，Dig  -  The Dog Person's Dating App，Mutt Jackson，PetGotchaDay和Shameless Pets。该活动于芝加哥Centro办公室于8.15.18举行;此次活动由芝加哥食品和饮料网络，宠物零售世界和世界宠物协会以及特色小组成员Courtney Harold（世界宠物协会），David Levy（Pet Product Innovations LLC和Zeus＆Company），Dustin McAdams（PupJoy）主讲。
 
-[野生动物贸易调研.pdf]（调研材料/野生动物贸易调研.pdf）
+[野生动物贸易调研.pdf](调研材料/野生动物贸易调研.pdf)
 
 [2017年全球贸易数据](调研材料/wts2017_e.pdf)
 
