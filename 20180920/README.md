@@ -6,6 +6,44 @@
 
 [在线视频：xxx](image/3.html)
 
+[野生动物贸易调研.pdf]（调研材料/野生动物贸易调研.pdf）
+
+**Association of Zoos & Aquariums**
+
+[https://www.aza.org/](https://www.aza.org/)
+
+**American Pet Products Association**
+
+[https://www.americanpetproducts.org/](https://www.americanpetproducts.org/)
+
+**Global Pet Expo**
+
+[https://globalpetexpo.org/index.html](https://globalpetexpo.org/index.html)
+
+**National Wildlife Federation**
+
+[https://www.nwf.org/](https://www.nwf.org/)
+
+**Pet Industry Joint Advisory Council of Canada**
+
+[https://pijaccanada.com/](https://pijaccanada.com/)
+
+**Sea Turtle Conservancy**
+
+[https://conserveturtles.org/](https://conserveturtles.org/)
+
+**World Association of Zoos & Aquariums**
+
+[http://www.waza.org/en/site/home](http://www.waza.org/en/site/home)
+
+**Zoo Chat Forums**
+
+[https://www.zoochat.com/community/](https://www.zoochat.com/community/)
+
+**SuperZoo Trade Show**
+
+[http://superzoo.org/](http://superzoo.org/)
+
 **澳大利亚动物登记处（AAR）**
 
 简介：
@@ -14,7 +52,7 @@
 
 [http://www.rasnsw.com.au/animal-registry](http://www.rasnsw.com.au/animal-registry)
 
-**CITES**
+**CITES 濒危野生动植物种国际贸易公约**
 
 简介：
 
@@ -34,3 +72,4 @@ CITES通过对选定物种的标本进行国际贸易进行某些控制来开展
 - 20,000个哺乳动物
 
 在20世纪90年代，合法动物产品的年贸易量每年达到1600亿美元。 2009年，估计价值几乎翻了一番，达到3000亿美元。
+
