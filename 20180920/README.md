@@ -62,7 +62,7 @@ Sea Turtle Conservancy（STC），前身为Caribbean Conservation Corporation，
 
 [https://conserveturtles.org/](https://conserveturtles.org/)
 
-**World Association of Zoos & Aquariums**
+**World Association of Zoos & Aquariums 世界动物园和水族馆协会**
 
 简介：
 
@@ -72,11 +72,15 @@ Sea Turtle Conservancy（STC），前身为Caribbean Conservation Corporation，
 
 [http://www.waza.org/en/site/home](http://www.waza.org/en/site/home)
 
-**Zoo Chat Forums**
+**Zoo Chat Forums 动物园论坛**
 
 [https://www.zoochat.com/community/](https://www.zoochat.com/community/)
 
-**SuperZoo Trade Show**
+**SuperZoo Trade Show 宠物行业贸易展览会**
+
+简介：
+
+SuperZoo是北美参加人数最多的宠物行业贸易展览会，由世界宠物协会于1950年成立，作为整个行业连接，学习和开展业务的年度聚会场所。从那时起，该节目一直在不断发展 - 现在它拥有的购买者和教育时间比非洲大陆任何其他行业都要多。凭借其丰富的教育产品，易于购物的展厅和充满活力，充满乐趣的氛围，SuperZoo赢得了北美首屈一指的宠物零售活动的声誉 - 以及业内最具生产力和活力的年度贸易展
 
 [http://superzoo.org/](http://superzoo.org/)
 
