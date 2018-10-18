@@ -4,6 +4,8 @@
 
 **来源：**[https://www.productsafety.gov.au/recalls](https://www.productsafety.gov.au/recalls)
 
+**中文:**[https://www.microsofttranslator.com/bv.aspx?from=&to=zh-CHS&refd=www.microsofttranslator.com&rr=UC&a=https%3a%2f%2fwww.productsafety.gov.au%2frecalls](https://www.microsofttranslator.com/bv.aspx?from=&to=zh-CHS&refd=www.microsofttranslator.com&rr=UC&a=https%3a%2f%2fwww.productsafety.gov.au%2frecalls)
+
 ## 1. 澳大利亚的Capilano Honey承认向消费者销售有毒和有毒的蜂蜜
 
 **时间：**2016年9月
